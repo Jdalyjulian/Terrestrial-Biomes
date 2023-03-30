@@ -1,0 +1,142 @@
+ h1 {
+        text-align: center;
+        color: #82ae42;
+        border: 1px solid #5084a2;
+        border-radius: 4px;
+        font-size: 36px;
+      }
+      h2 {
+        text-align: center;
+        color: #306b48;
+        padding: 10px;
+        border: 1px solid #5084a2;
+        border-radius: 4px;
+        font-size: 20px;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        border-radius: 4px;
+      }
+      ul {
+        list-style: none;
+        text-align: center;
+        padding: 0px 10px;
+        line-height: 2;
+        margin: auto;
+        width: 70%;
+      }
+      button {
+        display: block;
+        margin: 0 auto;
+        padding: 15px 20px;
+        border: none;
+        border-radius: 4px;
+        background-color: #5084a2;
+        color: white;
+        font-weight: bold;
+        text-transform: uppercase;
+        box-shadow: 5px 5px 10px rgb(144, 175, 202);
+        transition: all 200ms ease-in-out;
+      }
+      button:hover {
+        opacity: 0.7;
+        cursor: pointer;
+      }
+      a {
+        text-decoration: none;
+        color: darkblue;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      p {
+        line-height: 1.5;
+      }
+      hr {
+        color: #5084a2;
+      }
+      .content {
+        background: linear-gradient(
+          179.7deg,
+          rgb(197, 214, 227) 2.9%,
+          rgb(144, 175, 202) 97.1%
+        );
+        padding: 20px 60px;
+        max-width: 400 px;
+        margin: 0 auto;
+        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+      }
+      .definition {
+        font-weight: bold;
+        color: #306b48;
+      }
+
+      .tropicalRain {
+        font-weight: bold;
+        background-color: #c2d836;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .temperateForest {
+        font-weight: bold;
+        background-color: #86b041;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .desert {
+        font-weight: bold;
+        background-color: #fcb81f;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .tundra {
+        font-weight: bold;
+        background-color: #b7def0;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .taiga {
+        font-weight: bold;
+        background-color: #2e6946;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .grassland {
+        font-weight: bold;
+        background-color: #ffee79;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .savanna {
+        font-weight: bold;
+        background-color: #f6842f;
+        border-radius: 4px;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #5084a2;
+      }
+      .introduction {
+        text-align: center;
+      }
+      .learnMore {
+        text-align: center;
+      }
+      .footer {
+        text-align: center;
+        font-size: smaller;
+      }
